@@ -1,0 +1,58 @@
+{"type": "apt_indicator", "severity": "CRITICAL", "device": "node-10-fuzzer", "timestamp": 1779119179, "property": "P3.1", "method": "monpoly_online"}
+{"type": "coordinated_attack", "severity": "CRITICAL", "device_count": 3, "timestamp": 1779119191, "property": "P3.2", "method": "monpoly_online"}
+{"type": "escalation_pattern", "severity": "HIGH", "device": "node-15-mixed", "timestamp": 1779119191, "property": "P3.3", "method": "monpoly_online"}
+{"type": "escalation_pattern", "severity": "HIGH", "device": "node-12-mixed", "timestamp": 1779119196, "property": "P3.3", "method": "monpoly_online"}
+{"type": "persistent_threat", "severity": "HIGH", "device": "node-6-overflow", "count": 5, "timestamp": 1779119207, "property": "P3.4", "method": "monpoly_online"}
+{"type": "apt_indicator", "severity": "CRITICAL", "device": "node-10-fuzzer", "timestamp": 1779119220, "property": "P3.1", "method": "monpoly_online"}
+{"type": "coordinated_attack", "severity": "CRITICAL", "device_count": 5, "timestamp": 1779119220, "property": "P3.2", "method": "monpoly_online"}
+{"type": "escalation_pattern", "severity": "HIGH", "device": "node-12-mixed", "timestamp": 1779119220, "property": "P3.3", "method": "monpoly_online"}
+{"type": "coordinated_attack", "severity": "CRITICAL", "device_count": 4, "timestamp": 1779119250, "property": "P3.2", "method": "monpoly_online"}
+{"type": "persistent_threat", "severity": "HIGH", "device": "node-10-fuzzer", "count": 5, "timestamp": 1779119277, "property": "P3.4", "method": "monpoly_online"}
+{"type": "coordinated_attack", "severity": "CRITICAL", "device_count": 4, "timestamp": 1779119280, "property": "P3.2", "method": "monpoly_online"}
+{"type": "escalation_pattern", "severity": "HIGH", "device": "node-12-mixed", "timestamp": 1779119280, "property": "P3.3", "method": "monpoly_online"}
+{"type": "apt_indicator", "severity": "CRITICAL", "device": "node-10-fuzzer", "timestamp": 1779119280, "property": "P3.1", "method": "monpoly_online"}
+{"type": "escalation_pattern", "severity": "HIGH", "device": "node-13-mixed", "timestamp": 1779119288, "property": "P3.3", "method": "monpoly_online"}
+{"type": "coordinated_attack", "severity": "CRITICAL", "device_count": 7, "timestamp": 1779119310, "property": "P3.2", "method": "monpoly_online"}
+{"type": "persistent_threat", "severity": "HIGH", "device": "node-14-mixed", "count": 5, "timestamp": 1779119319, "property": "P3.4", "method": "monpoly_online"}
+{"type": "apt_indicator", "severity": "CRITICAL", "device": "node-10-fuzzer", "timestamp": 1779119340, "property": "P3.1", "method": "monpoly_online"}
+{"type": "coordinated_attack", "severity": "CRITICAL", "device_count": 6, "timestamp": 1779119340, "property": "P3.2", "method": "monpoly_online"}
+{"type": "escalation_pattern", "severity": "HIGH", "device": "node-12-mixed", "timestamp": 1779119340, "property": "P3.3", "method": "monpoly_online"}
+{"type": "escalation_pattern", "severity": "HIGH", "device": "node-13-mixed", "timestamp": 1779119349, "property": "P3.3", "method": "monpoly_online"}
+{"type": "persistent_threat", "severity": "HIGH", "device": "node-13-mixed", "count": 5, "timestamp": 1779119356, "property": "P3.4", "method": "monpoly_online"}
+{"type": "persistent_threat", "severity": "HIGH", "device": "node-12-mixed", "count": 5, "timestamp": 1779119363, "property": "P3.4", "method": "monpoly_online"}
+{"type": "coordinated_attack", "severity": "CRITICAL", "device_count": 6, "timestamp": 1779119370, "property": "P3.2", "method": "monpoly_online"}
+{"type": "apt_indicator", "severity": "CRITICAL", "device": "node-10-fuzzer", "timestamp": 1779119400, "property": "P3.1", "method": "monpoly_online"}
+{"type": "coordinated_attack", "severity": "CRITICAL", "device_count": 4, "timestamp": 1779119400, "property": "P3.2", "method": "monpoly_online"}
+{"type": "escalation_pattern", "severity": "HIGH", "device": "node-12-mixed", "timestamp": 1779119400, "property": "P3.3", "method": "monpoly_online"}
+{"type": "escalation_pattern", "severity": "HIGH", "device": "node-15-mixed", "timestamp": 1779119422, "property": "P3.3", "method": "monpoly_online"}
+{"type": "escalation_pattern", "severity": "HIGH", "device": "node-14-mixed", "timestamp": 1779119426, "property": "P3.3", "method": "monpoly_online"}
+{"type": "persistent_threat", "severity": "HIGH", "device": "node-9-stealth", "count": 5, "timestamp": 1779119426, "property": "P3.4", "method": "monpoly_online"}
+{"type": "coordinated_attack", "severity": "CRITICAL", "device_count": 5, "timestamp": 1779119430, "property": "P3.2", "method": "monpoly_online"}
+{"type": "apt_indicator", "severity": "CRITICAL", "device": "node-10-fuzzer", "timestamp": 1779119460, "property": "P3.1", "method": "monpoly_online"}
+{"type": "coordinated_attack", "severity": "CRITICAL", "device_count": 4, "timestamp": 1779119460, "property": "P3.2", "method": "monpoly_online"}
+{"type": "escalation_pattern", "severity": "HIGH", "device": "node-12-mixed", "timestamp": 1779119460, "property": "P3.3", "method": "monpoly_online"}
+{"type": "coordinated_attack", "severity": "CRITICAL", "device_count": 5, "timestamp": 1779119490, "property": "P3.2", "method": "monpoly_online"}
+{"type": "apt_indicator", "severity": "CRITICAL", "device": "node-10-fuzzer", "timestamp": 1779119520, "property": "P3.1", "method": "monpoly_online"}
+{"type": "coordinated_attack", "severity": "CRITICAL", "device_count": 7, "timestamp": 1779119520, "property": "P3.2", "method": "monpoly_online"}
+{"type": "escalation_pattern", "severity": "HIGH", "device": "node-12-mixed", "timestamp": 1779119520, "property": "P3.3", "method": "monpoly_online"}
+{"type": "coordinated_attack", "severity": "CRITICAL", "device_count": 5, "timestamp": 1779119550, "property": "P3.2", "method": "monpoly_online"}
+{"type": "apt_indicator", "severity": "CRITICAL", "device": "node-10-fuzzer", "timestamp": 1779119580, "property": "P3.1", "method": "monpoly_online"}
+{"type": "escalation_pattern", "severity": "HIGH", "device": "node-12-mixed", "timestamp": 1779119580, "property": "P3.3", "method": "monpoly_online"}
+{"type": "coordinated_attack", "severity": "CRITICAL", "device_count": 3, "timestamp": 1779119581, "property": "P3.2", "method": "monpoly_online"}
+{"type": "apt_indicator", "severity": "CRITICAL", "device": "node-12-mixed", "timestamp": 1779119599, "property": "P3.1", "method": "monpoly_online"}
+{"type": "coordinated_attack", "severity": "CRITICAL", "device_count": 6, "timestamp": 1779119610, "property": "P3.2", "method": "monpoly_online"}
+{"type": "apt_indicator", "severity": "CRITICAL", "device": "node-10-fuzzer", "timestamp": 1779119640, "property": "P3.1", "method": "monpoly_online"}
+{"type": "coordinated_attack", "severity": "CRITICAL", "device_count": 6, "timestamp": 1779119640, "property": "P3.2", "method": "monpoly_online"}
+{"type": "escalation_pattern", "severity": "HIGH", "device": "node-12-mixed", "timestamp": 1779119640, "property": "P3.3", "method": "monpoly_online"}
+{"type": "escalation_pattern", "severity": "HIGH", "device": "node-13-mixed", "timestamp": 1779119667, "property": "P3.3", "method": "monpoly_online"}
+{"type": "coordinated_attack", "severity": "CRITICAL", "device_count": 4, "timestamp": 1779119670, "property": "P3.2", "method": "monpoly_online"}
+{"type": "escalation_pattern", "severity": "HIGH", "device": "node-14-mixed", "timestamp": 1779119690, "property": "P3.3", "method": "monpoly_online"}
+{"type": "apt_indicator", "severity": "CRITICAL", "device": "node-10-fuzzer", "timestamp": 1779119700, "property": "P3.1", "method": "monpoly_online"}
+{"type": "coordinated_attack", "severity": "CRITICAL", "device_count": 4, "timestamp": 1779119700, "property": "P3.2", "method": "monpoly_online"}
+{"type": "escalation_pattern", "severity": "HIGH", "device": "node-14-mixed", "timestamp": 1779119700, "property": "P3.3", "method": "monpoly_online"}
+{"type": "escalation_pattern", "severity": "HIGH", "device": "node-12-mixed", "timestamp": 1779119703, "property": "P3.3", "method": "monpoly_online"}
+{"type": "coordinated_attack", "severity": "CRITICAL", "device_count": 6, "timestamp": 1779119730, "property": "P3.2", "method": "monpoly_online"}
+{"type": "escalation_pattern", "severity": "HIGH", "device": "node-12-mixed", "timestamp": 1779119760, "property": "P3.3", "method": "monpoly_online"}
+{"type": "apt_indicator", "severity": "CRITICAL", "device": "node-10-fuzzer", "timestamp": 1779119760, "property": "P3.1", "method": "monpoly_online"}
+{"type": "coordinated_attack", "severity": "CRITICAL", "device_count": 5, "timestamp": 1779119760, "property": "P3.2", "method": "monpoly_online"}
+{"type": "escalation_pattern", "severity": "HIGH", "device": "node-13-mixed", "timestamp": 1779119770, "property": "P3.3", "method": "monpoly_online"}

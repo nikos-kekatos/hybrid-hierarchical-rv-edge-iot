@@ -1,0 +1,40 @@
+{
+  "detection_rates": {
+    "P3.1": {
+      "detected": 8,
+      "expected": 5,
+      "rate": 160.0
+    },
+    "P3.2": {
+      "detected": 10,
+      "expected": 15,
+      "rate": 66.66666666666666
+    },
+    "P3.3": {
+      "detected": 7,
+      "expected": 5,
+      "rate": 140.0
+    },
+    "P3.4": {
+      "detected": 6,
+      "expected": 15,
+      "rate": 40.0
+    }
+  },
+  "alert_accuracy": {
+    "total_attack_alerts": 490,
+    "attack_devices": 8,
+    "alerts_per_device": 61.25
+  },
+  "false_positives": {
+    "normal_device_ratio": 0.3333333333333333,
+    "total_incidents": 31
+  },
+  "summary": {
+    "total_events": 3589,
+    "total_alerts": 3520,
+    "total_incidents": 31,
+    "unique_devices": 15,
+    "attack_devices": 10
+  }
+}

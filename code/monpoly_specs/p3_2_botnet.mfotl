@@ -1,0 +1,13 @@
+# P3.2: Coordinated Attack Detection (Botnet)
+#
+# Formal Specification (MFOTL):
+#   coordinated_attack(d, cnt, t) <-
+#     cnt := CNT d2. ONCE[0,30] overflow(d2);
+#     cnt >= 3, for each contributing device d
+#
+# Semantics: At least 3 distinct devices perform overflow attacks
+#            within 30 seconds -> coordinated botnet attack.
+#            Output: one tuple (d, cnt) per contributing device
+#            (runtime witness emission).
+((ONCE[0,30] overflow(d, _)) AND
+ ((cnt <- CNT d2; ONCE[0,30] overflow(d2, _)) AND cnt >= 3))

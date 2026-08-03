@@ -1,0 +1,6 @@
+in overflow: Events[Int]
+
+def TIMEOUT: Int = 5000
+def alert: Events[Int] = delay(overflow, 5000).map((x: Int) => x)
+
+out alert

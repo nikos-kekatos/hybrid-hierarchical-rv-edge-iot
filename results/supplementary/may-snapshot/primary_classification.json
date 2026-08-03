@@ -1,0 +1,286 @@
+{
+  "per_property": {
+    "P3.1": {
+      "true": 10,
+      "mixed": 0,
+      "false_positive": 0,
+      "unknown": 0,
+      "total": 10
+    },
+    "P3.3": {
+      "true": 13,
+      "mixed": 0,
+      "false_positive": 0,
+      "unknown": 0,
+      "total": 13
+    },
+    "P3.2": {
+      "true": 0,
+      "mixed": 0,
+      "false_positive": 0,
+      "unknown": 14,
+      "total": 14
+    },
+    "P3.4": {
+      "true": 3,
+      "mixed": 0,
+      "false_positive": 0,
+      "unknown": 0,
+      "total": 3
+    }
+  },
+  "incidents": [
+    {
+      "property": "P3.1",
+      "devices": [
+        "node-12-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.3",
+      "devices": [
+        "node-12-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.2",
+      "devices": [],
+      "classification": "unknown"
+    },
+    {
+      "property": "P3.1",
+      "devices": [
+        "node-12-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.2",
+      "devices": [],
+      "classification": "unknown"
+    },
+    {
+      "property": "P3.3",
+      "devices": [
+        "node-12-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.4",
+      "devices": [
+        "node-6-overflow"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.2",
+      "devices": [],
+      "classification": "unknown"
+    },
+    {
+      "property": "P3.3",
+      "devices": [
+        "node-12-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.1",
+      "devices": [
+        "node-12-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.2",
+      "devices": [],
+      "classification": "unknown"
+    },
+    {
+      "property": "P3.4",
+      "devices": [
+        "node-14-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.3",
+      "devices": [
+        "node-13-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.1",
+      "devices": [
+        "node-13-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.1",
+      "devices": [
+        "node-10-fuzzer"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.2",
+      "devices": [],
+      "classification": "unknown"
+    },
+    {
+      "property": "P3.1",
+      "devices": [
+        "node-10-fuzzer"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.2",
+      "devices": [],
+      "classification": "unknown"
+    },
+    {
+      "property": "P3.3",
+      "devices": [
+        "node-12-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.4",
+      "devices": [
+        "node-13-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.2",
+      "devices": [],
+      "classification": "unknown"
+    },
+    {
+      "property": "P3.3",
+      "devices": [
+        "node-13-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.1",
+      "devices": [
+        "node-10-fuzzer"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.2",
+      "devices": [],
+      "classification": "unknown"
+    },
+    {
+      "property": "P3.3",
+      "devices": [
+        "node-12-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.2",
+      "devices": [],
+      "classification": "unknown"
+    },
+    {
+      "property": "P3.3",
+      "devices": [
+        "node-13-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.1",
+      "devices": [
+        "node-10-fuzzer"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.2",
+      "devices": [],
+      "classification": "unknown"
+    },
+    {
+      "property": "P3.3",
+      "devices": [
+        "node-12-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.2",
+      "devices": [],
+      "classification": "unknown"
+    },
+    {
+      "property": "P3.1",
+      "devices": [
+        "node-10-fuzzer"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.3",
+      "devices": [
+        "node-12-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.2",
+      "devices": [],
+      "classification": "unknown"
+    },
+    {
+      "property": "P3.3",
+      "devices": [
+        "node-13-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.2",
+      "devices": [],
+      "classification": "unknown"
+    },
+    {
+      "property": "P3.1",
+      "devices": [
+        "node-10-fuzzer"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.2",
+      "devices": [],
+      "classification": "unknown"
+    },
+    {
+      "property": "P3.3",
+      "devices": [
+        "node-13-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.3",
+      "devices": [
+        "node-14-mixed"
+      ],
+      "classification": "true"
+    }
+  ]
+}

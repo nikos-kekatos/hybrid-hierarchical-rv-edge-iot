@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-05-18T18:56:17.685515",
+  "overview": {
+    "total_events": 7213,
+    "total_alerts": 7097,
+    "total_incidents": 58,
+    "unique_devices": 15,
+    "attack_devices": 10
+  },
+  "alerts": {
+    "by_type": {
+      "safe_tx": 6134,
+      "time_anomaly": 371,
+      "fuzzing": 185,
+      "dos_spam": 247,
+      "overflow": 160
+    }
+  },
+  "incidents": {
+    "by_type": {
+      "apt_indicator": 12,
+      "coordinated_attack": 20,
+      "escalation_pattern": 20,
+      "persistent_threat": 6
+    },
+    "by_property": {
+      "P3.1": 12,
+      "P3.2": 20,
+      "P3.3": 20,
+      "P3.4": 6
+    }
+  },
+  "latencies": {
+    "alert_to_incident": {
+      "count": 38,
+      "mean": 0.5263157894736842,
+      "min": 0,
+      "max": 3
+    }
+  }
+}

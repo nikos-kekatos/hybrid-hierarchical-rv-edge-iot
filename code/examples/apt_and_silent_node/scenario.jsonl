@@ -1,0 +1,5 @@
+{"device":"node-1","type":"overflow","timestamp":1779119196.0}
+{"device":"node-1","type":"time_anomaly","timestamp":1779119197.0}
+{"device":"node-1","type":"fuzzing","timestamp":1779119198.0}
+{"device":"node-2","type":"safe_tx","timestamp":1779119203.0}
+{"device":"node-2","type":"safe_tx","timestamp":1779119205.0}

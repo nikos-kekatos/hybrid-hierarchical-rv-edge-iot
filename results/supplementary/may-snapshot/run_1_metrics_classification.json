@@ -1,0 +1,160 @@
+{
+  "per_property": {
+    "P3.1": {
+      "true": 4,
+      "mixed": 0,
+      "false_positive": 0,
+      "unknown": 0,
+      "total": 4
+    },
+    "P3.2": {
+      "true": 0,
+      "mixed": 0,
+      "false_positive": 0,
+      "unknown": 7,
+      "total": 7
+    },
+    "P3.3": {
+      "true": 6,
+      "mixed": 0,
+      "false_positive": 0,
+      "unknown": 0,
+      "total": 6
+    },
+    "P3.4": {
+      "true": 3,
+      "mixed": 0,
+      "false_positive": 0,
+      "unknown": 0,
+      "total": 3
+    }
+  },
+  "incidents": [
+    {
+      "property": "P3.1",
+      "devices": [
+        "node-10-fuzzer"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.2",
+      "devices": [],
+      "classification": "unknown"
+    },
+    {
+      "property": "P3.3",
+      "devices": [
+        "node-14-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.1",
+      "devices": [
+        "node-10-fuzzer"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.2",
+      "devices": [],
+      "classification": "unknown"
+    },
+    {
+      "property": "P3.3",
+      "devices": [
+        "node-14-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.3",
+      "devices": [
+        "node-13-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.3",
+      "devices": [
+        "node-12-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.2",
+      "devices": [],
+      "classification": "unknown"
+    },
+    {
+      "property": "P3.4",
+      "devices": [
+        "node-6-overflow"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.1",
+      "devices": [
+        "node-10-fuzzer"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.2",
+      "devices": [],
+      "classification": "unknown"
+    },
+    {
+      "property": "P3.3",
+      "devices": [
+        "node-12-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.4",
+      "devices": [
+        "node-15-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.2",
+      "devices": [],
+      "classification": "unknown"
+    },
+    {
+      "property": "P3.4",
+      "devices": [
+        "node-10-fuzzer"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.1",
+      "devices": [
+        "node-10-fuzzer"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.2",
+      "devices": [],
+      "classification": "unknown"
+    },
+    {
+      "property": "P3.3",
+      "devices": [
+        "node-12-mixed"
+      ],
+      "classification": "true"
+    },
+    {
+      "property": "P3.2",
+      "devices": [],
+      "classification": "unknown"
+    }
+  ]
+}

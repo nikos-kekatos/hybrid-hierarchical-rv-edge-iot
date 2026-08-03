@@ -1,0 +1,163 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{abdelsalam2025dtanesthesia}
+AbdElSalam, M., Bensalem, S., Delacourt, A., He, W., Katsaros, P., Kekatos, N.,
+  Nolasco~Ruiz, R., Peled, D., Ponchant, M., Ryad, I., Temperekidis, A., Wu,
+  C.: Digital twin for the formal analysis of a depth-of-anesthesia controller.
+  SIMULATION  \textbf{{\mdseries 101}}(3),  341--360 (2025).
+  \doi{10.1177/00375497241311617}
+
+\bibitem{abdelsalam2024dttraffic}
+AbdElSalam, M., et~al.: A digital twin prototype for traffic sign recognition
+  of a learning-enabled autonomous vehicle. In: Companion Proc.\ of PoEM 2023.
+  CEUR Workshop Proceedings, vol.~3645. CEUR-WS.org (2024).
+  \doi{10.48550/arXiv.2402.09097}
+
+\bibitem{shielding2018}
+Alshiekh, M., Bloem, R., Ehlers, R., K{\"o}nighofer, B., Niekum, S., Topcu, U.:
+  Safe reinforcement learning via shielding. In: AAAI Conf.\ on Artificial
+  Intelligence (2018). \doi{10.1609/aaai.v32i1.11797}
+
+\bibitem{mantra2026}
+Anand, A., Chatzi, I., Raha, R., Schmuck, A.K.: {MANTRA}: Synthesizing
+  {SMT}-validated compliance benchmarks for tool-using {LLM} agents. arXiv
+  preprint arXiv:2605.06334  (2026). \doi{10.48550/arXiv.2605.06334}
+
+\bibitem{strel2017}
+Bartocci, E., Bortolussi, L., Loreti, M., Nenzi, L.: Monitoring mobile and
+  spatially distributed cyber-physical systems. ACM-IEEE Intl.\ Conf.\ on
+  Formal Methods and Models for System Design (MEMOCODE)  (2017).
+  \doi{10.1145/3127041.3127050}
+
+\bibitem{monpoly2014}
+Basin, D., Klaedtke, F., M{\"u}ller, S., Z{\u{a}}linescu, E.: {MonPoly}:
+  Monitoring usage-control policies. In: Runtime Verification (RV 2011). LNCS,
+  vol.~7186. Springer (2012). \doi{10.1007/978-3-642-29860-8_27}
+
+\bibitem{bensalem2024continuous}
+Bensalem, S., Katsaros, P., Ni{\v{c}}kovi{\'c}, D., Liao, B.H.C., Ruiz~Nolasco,
+  R., et~al.: Continuous engineering for trustworthy learning-enabled
+  autonomous systems. In: Bridging the Gap Between AI and Reality (AISoLA
+  2023). LNCS, vol. 14380, pp. 256--278. Springer (2024).
+  \doi{10.1007/978-3-031-46002-9_15}
+
+\bibitem{bonakdarpour2013ttrv}
+Bonakdarpour, B., Navabpour, S., Fischmeister, S.: Time-triggered runtime
+  verification. Formal Methods in System Design  \textbf{43}(1),  29--60
+  (2013). \doi{10.1007/s10703-012-0182-0}
+
+\bibitem{cavalli2024iotsec}
+Cavalli, A.R., Mallouli, W., Montes~de Oca, E., Rivera, D.: {IoT} security
+  monitoring tools and models. In: Ziegler, S., Rad{\'o}cz, R.,
+  Quesada~Rodriguez, A., Matheu~Garcia, S.N. (eds.) Springer Handbook of
+  Internet of Things, pp. 289--315. Springer Handbooks, Springer Nature
+  Switzerland, Cham (2024). \doi{10.1007/978-3-031-39650-2_13}
+
+\bibitem{chintri2026edge}
+Chintri, M., Seitoglou, I., et~al.: Edge-oriented evaluation of {CNN}-based
+  vehicle detection on embedded {V2X} platforms. In: Conf.\ on Innovation in
+  Clouds, Internet and Networks (ICIN). pp.~1--5. IEEE, Athens, Greece (2026).
+  \doi{10.1109/ICIN69025.2026.11481844}
+
+\bibitem{tessla2018}
+Convent, L., Hungar, S., Leucker, M., Scheffel, T., Schmitz, M., Thoma, D.:
+  {TeSSLa}: Temporal stream-based specification language. In: Brazilian
+  Symposium on Formal Methods (SBMF) (2018). \doi{10.1007/978-3-030-03044-5_10}
+
+\bibitem{desai2019soter}
+Desai, A., Ghosh, S., Seshia, S.A., Shankar, N., Tiwari, A.: {SOTER}: A runtime
+  assurance framework for programming safe robotics systems. In: IEEE/IFIP
+  Intl.\ Conf.\ on Dependable Systems and Networks (DSN) (2019).
+  \doi{10.1109/DSN.2019.00027}
+
+\bibitem{eleftheriadis2022nnequiv}
+Eleftheriadis, C., Kekatos, N., Katsaros, P., Tripakis, S.: On neural network
+  equivalence checking using {SMT} solvers. In: Formal Modeling and Analysis of
+  Timed Systems (FORMATS) (2022). \doi{10.1007/978-3-031-15839-1_14}
+
+\bibitem{falcone2021taxonomy}
+Falcone, Y., Krsti{\'c}, S., Reger, G., Traytel, D.: A taxonomy for classifying
+  runtime verification tools. International Journal on Software Tools for
+  Technology Transfer (STTT)  \textbf{23}(2),  255--284 (2021).
+  \doi{10.1007/s10009-021-00609-z}
+
+\bibitem{rtlola2019}
+Faymonville, P., Finkbeiner, B., Schledjewski, M., Schwenger, M., Stenger, M.,
+  Tentrup, L., Torfah, H.: {StreamLAB}: Stream-based monitoring of
+  cyber-physical systems. In: Computer Aided Verification (CAV) (2019).
+  \doi{10.1007/978-3-030-25540-4_24}
+
+\bibitem{iot23dataset}
+Garcia, S., Parmisano, A., Erquiaga, M.J.: {IoT-23}: A labeled dataset of
+  malicious and benign {IoT} network traffic (version 1.0.0).
+  \url{https://www.stratosphereips.org/datasets-iot23} (2020), capture
+  \texttt{CTU-IoT-Malware-Capture-34-1}
+
+\bibitem{tessla2024}
+Kallwies, H., Leucker, M., Schmitz, M., Schulz, M., Thoma, D., Weiss, A.:
+  {TeSSLa}: An ecosystem for runtime verification. In: Runtime Verification (RV
+  2022). LNCS, vol. 13498. Springer (2022). \doi{10.1007/978-3-031-17196-3_20}
+
+\bibitem{leucker2009brief}
+Leucker, M., Schallhart, C.: A brief account of runtime verification. Journal
+  of Logic and Algebraic Programming  \textbf{78}(5),  293--303 (2009).
+  \doi{10.1016/j.jlap.2008.08.004}
+
+\bibitem{lukina2021into}
+Lukina, A., Schilling, C., Henzinger, T.A.: Into the unknown: Active monitoring
+  of neural networks. In: Runtime Verification (RV) (2021).
+  \doi{10.1007/978-3-030-88494-9_3}
+
+\bibitem{sastl2020}
+Ma, M., Bartocci, E., Lifland, E., Stankovic, J.A., Feng, L.: {SaSTL}: Spatial
+  aggregation signal temporal logic for runtime monitoring in smart cities. In:
+  ACM/IEEE Intl.\ Conf.\ on Cyber-Physical Systems (ICCPS) (2020).
+  \doi{10.1109/ICCPS48487.2020.00013}
+
+\bibitem{pike2017copilot}
+Pike, L., Goodloe, A., Morisset, R., Niller, S.: {Copilot}: A hard real-time
+  runtime monitor. In: Runtime Verification (RV 2010). LNCS, vol.~6418.
+  Springer (2010). \doi{10.1007/978-3-642-16612-9_26}
+
+\bibitem{nist800207}
+Rose, S., Borchert, O., Mitchell, S., Connelly, S.: Zero trust architecture.
+  NIST Special Publication 800-207, National Institute of Standards and
+  Technology (2020). \doi{10.6028/NIST.SP.800-207}
+
+\bibitem{nist800160v2}
+Ross, R., Pillitteri, V., Graubart, R., Bodeau, D., McQuaid, R.: Developing
+  cyber-resilient systems: A systems security engineering approach. NIST
+  Special Publication 800-160 Vol. 2 Rev. 1, National Institute of Standards
+  and Technology (2021). \doi{10.6028/NIST.SP.800-160v2r1}
+
+\bibitem{ukraine2015}
+{SANS Industrial Control Systems and Electricity Information Sharing and
+  Analysis Center (E-ISAC)}: Analysis of the cyber attack on the {Ukrainian}
+  power grid: Defense use case. Tech. rep., SANS ICS / E-ISAC (Mar 2016)
+
+\bibitem{santhoshkumar2023mliot}
+Santhosh~Kumar, S.V.N., Selvi, M., Kannan, A.: A comprehensive survey on
+  machine learning-based intrusion detection systems for secure communication
+  in the internet of things. Computational Intelligence and Neuroscience
+  \textbf{2023},  8981988 (2023). \doi{10.1155/2023/8981988}
+
+\bibitem{verimon2021}
+Schneider, J., Basin, D., Krsti{\'c}, S., Traytel, D.: {VeriMon}: Verifying
+  {MFOTL} monitors. In: Computer Aided Verification (CAV). LNCS, Springer
+  (2021)
+
+\bibitem{temperekidis2022fmirv}
+Temperekidis, A., Kekatos, N., Katsaros, P.: Runtime verification for
+  {FMI}-based co-simulation. In: Runtime Verification (RV). LNCS, vol. 13498.
+  Springer (2022)
+
+\bibitem{temperekidis2022dt}
+Temperekidis, A., Kekatos, N., Katsaros, P., et~al.: Towards a digital twin
+  architecture with formal analysis capabilities for learning-enabled
+  autonomous systems. In: MESAS 2022. LNCS, vol. 13866, pp. 163--181. Springer
+  (2023). \doi{10.1007/978-3-031-31268-7_10}
+
+\end{thebibliography}

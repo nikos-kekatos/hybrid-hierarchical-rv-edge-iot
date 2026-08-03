@@ -1,0 +1,8 @@
+{"device":"node-A","type":"safe_tx","timestamp":1779120000}
+{"device":"node-A","type":"safe_tx","timestamp":1779120005}
+{"device":"node-B","type":"overflow","timestamp":1779120010}
+{"device":"node-C","type":"overflow","timestamp":1779120011}
+{"device":"node-D","type":"overflow","timestamp":1779120012}
+{"device":"node-A","type":"overflow","timestamp":1779120020}
+{"device":"node-A","type":"time_anomaly","timestamp":1779120025}
+{"device":"node-A","type":"fuzzing","timestamp":1779120030}
