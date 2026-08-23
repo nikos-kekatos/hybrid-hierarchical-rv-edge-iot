@@ -1,6 +1,6 @@
 # Hybrid Hierarchical Runtime Verification for Edge-IoT Security: Combining MonPoly and RTLola
 
-Specifications, code and experimental results for a three-layer runtime-verification
+Paper, specifications, code and experimental results for a three-layer runtime-verification
 architecture for edge-IoT security monitoring, in which the cloud layer runs **two complementary
 RV engines**: MonPoly for first-order temporal correlation across devices, and RTLola for
 time-triggered properties that must fire when a compromised device *stops* emitting events.
@@ -20,9 +20,8 @@ time-triggered properties that must fire when a compromised device *stops* emitt
 Accepted at the **IWAPS** workshop of **ARES 2026** (International Conference on Availability,
 Reliability and Security), Vienna, 24 August 2026; proceedings published by Springer in **LNCS**.
 
-The manuscript is **not distributed in this repository**. The definitive version is the
-Springer-published proceedings version; for the accepted author version, contact the corresponding
-author.
+The accepted manuscript is `paper/paper.pdf`; `paper/paper.tex` is the source that produced it.
+The definitive version of record is the Springer-published proceedings version.
 
 ## The problem
 
@@ -43,6 +42,7 @@ L3 cloud       correlator_monitor.py  MonPoly (P3.1-P3.4) + RTLola (P3.5)
 ## Layout
 
 ```
+paper/                    accepted manuscript, LaTeX source, bibliography
 code/                     the full stack (this is the code that produced the paper's results)
   monpoly_specs/          P3.1 APT, P3.2 botnet, P3.3 escalation, P3.4 persistent + signature
   rtlola_specs/           P3.5 silent-node anomaly
@@ -107,5 +107,5 @@ rather than on it.
 
 ## Licence
 
-Code, specifications and results: MIT (`LICENSE`). The manuscript is not part of this
-repository; the definitive record is the Springer-published proceedings version.
+Code, specifications and results: MIT (`LICENSE`). The manuscript is the authors' accepted
+version; the definitive record is the Springer-published proceedings version.
