@@ -92,18 +92,27 @@ rather than on it.
 ## Citing
 
 ```bibtex
-@inproceedings{kekatos2026hybrid,
-  author    = {Kekatos, Nikolaos and Chintri, Marinelio and Katsaros, Panagiotis and
-               Lekidis, Alexios and Nianios, Tom and Seitoglou, Ioannis and
-               Temperekidis, Anastasios and Basagiannis, Stylianos},
+@InProceedings{kekatos2027hybrid,
+  author    = {Kekatos, Nikolaos and Chintri, Marinelio and Katsaros, Panagiotis
+               and Lekidis, Alexios and Nianios, Tom and Seitoglou, Ioannis
+               and Temperekidis, Anastasios and Basagiannis, Stylianos},
+  editor    = {Kieseberg, Peter and Skopik, Florian and Atli, Buse
+               and Asplund, Mikael},
   title     = {Hybrid Hierarchical Runtime Verification for {Edge-IoT} Security:
                Combining {MonPoly} and {RTLola}},
-  booktitle = {Proc. ARES 2026 Workshops (IWAPS)},
+  booktitle = {Availability, Reliability and Security.
+               ARES 2026 EU Projects Symposium Workshops},
   series    = {Lecture Notes in Computer Science},
+  volume    = {16903},
+  pages     = {222--240},
   publisher = {Springer},
-  year      = {2026}
+  address   = {Cham},
+  year      = {2027},
+  doi       = {10.1007/978-3-032-37218-5_14}
 }
 ```
+
+Published version: <https://link.springer.com/chapter/10.1007/978-3-032-37218-5_14>
 
 ## Licence
 
