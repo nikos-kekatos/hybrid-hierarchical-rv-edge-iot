@@ -183,12 +183,3 @@ docker run --rm -v "$(pwd)/tessla_specs:/specs" \
   hierarchical_rv-monitor:latest \
   tessla compile-core /specs/p3_5_silent_node.tessla
 ```
----
-
-## License
-
-[Add your license here]
-
-## Citation
-
-[Add your paper citation here]
